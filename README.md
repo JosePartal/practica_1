@@ -1,4 +1,4 @@
-# practica_1
+# PRÁCTICA 1
 
 El trabajo se ha realizado empleando la herramienta Google Colab.
 
